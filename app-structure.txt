@@ -1,0 +1,20 @@
+|__ app
+    |__ homepage
+    |
+    |__ user-profile
+    |
+    |__ gifts
+    |   |__ gift-list
+    |   |__ gift-item
+    |
+    |__ auth
+    |   |__ registration
+    |   |__ login
+    |
+    |__ about
+    |
+    |__ contact
+    |
+    |__ shared
+    |   |__ services
+    |   |   |__ auth.service.ts
